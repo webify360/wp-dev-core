@@ -1,3 +1,3 @@
 # WPDevCore
 
-WPDevCore is a mini framework for building clean, maintainable, and scalable WordPress plugins with premium features.
+WPDevCore is a WordPress plugin development framework that helps naturally write cleaner, more maintainable code with the idea of "convention over configurations".
